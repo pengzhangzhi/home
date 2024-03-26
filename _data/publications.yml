@@ -1,22 +1,22 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "PTM-Mamba: A PTM-Aware Protein Language Model with Bidirectional Gated Mamba Blocks"
+    authors: Zhangzhi Peng, Benjamin Schussheim, Pranam Chatterjee
+    conference_short: bioRxiv
+    conference: bioRxiv
+    pdf: https://www.biorxiv.org/content/10.1101/2024.02.28.581983v1.full.pdf
+    code: https://github.com/programmablebio/ptm-mamba
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/ptmmamba.png
+    # notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Generative diffusion models for antibody design, docking, and optimization"
+    authors: Zhangzhi Peng, Chenchen Han, Xiaohan Wang, Dapeng Li, Fajiie Yuan
+    conference_short: bioRxiv
+    conference: bioRxiv
+    pdf: https://www.biorxiv.org/content/10.1101/2023.09.25.559190v1.full.pdf
+    code: https://github.com/pengzhangzhi/ab_opt
+    page: hhttps://pengzhangzhi.github.io/ab_opt_homepage/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/ab_opt.png
