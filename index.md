@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm Zhangzhi Peng (彭张智), a BME Ph.D. student at Duke University, trained as a computer scientist. Preferred to be called Zhangzhi, Fred, or "Hey dude". I advocate for open science and open source, striving to democratize knowledge for all.  I'm broadly interested in machine learning and protein design. Questions I'm thinking about:
+I'm Zhangzhi Peng (彭张智), a BME Ph.D. student at [Chatterjee Lab](https://www.chatterjeelab.com/), Duke University, trained as a computer scientist. Preferred to be called Zhangzhi, Fred, or "Hey dude". I advocate for open science and open source, striving to democratize knowledge for all.  I'm broadly interested in machine learning and protein design. Questions I'm thinking about:
 
 <!-- ## Research Interests -->
 
