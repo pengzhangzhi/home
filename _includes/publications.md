@@ -2,7 +2,10 @@
 
 <div class="publications">
 <ol class="bibliography">
-Transparency and reproducibility are important to me. I ensure open code accompanying my first-author publications. Please refer to my [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=bZwJ9oUAAAAJ) for complete publications.  
+  
+Transparency and reproducibility are important to me. I ensure open code accompanying my first-author publications. Please refer to my <a href="https://scholar.google.co.uk/citations?hl=en&user=bZwJ9oUAAAAJ">Google Scholar</a> for complete publications.  
+  
+  
 {% for link in site.data.publications.main %}
 
 <li>
