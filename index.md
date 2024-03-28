@@ -32,5 +32,5 @@ I'm Zhangzhi Peng (彭张智), a BME Ph.D. student at [Chatterjee Lab](https://w
 {% include_relative _includes/services.md %}
 
  ## Misc
- - I maintain my [CV of Failure](), which many find to be encouraging.
+ - I maintain my [CV of Failure](pages/cv_of_failure.md), which many find to be encouraging.
  - 
