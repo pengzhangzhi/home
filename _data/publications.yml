@@ -8,7 +8,7 @@ main:
     code: https://github.com/programmablebio/ptm-mamba
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/ptmmamba.png
-    # notes: Early Accept
+    Video(ML4ProteinEngineering): https://www.youtube.com/watch?v=mjmw7rjxOs4&t=2202s
 
   - title: "Generative diffusion models for antibody design, docking, and optimization"
     authors: Zhangzhi Peng, Chenchen Han, Xiaohan Wang, Dapeng Li, Fajiie Yuan
