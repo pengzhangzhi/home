@@ -8,12 +8,8 @@ I'm Zhangzhi Peng (彭张智), a BME Ph.D. student at [Chatterjee Lab](https://w
 
 <!-- ## Research Interests -->
 
-- **Bridging the Gap Between Representation Learning and Generative Modeling**: 
-  - "What I cannot create, I do not understand." This quote by Richard Feynman encapsulates that **Representation Learning and Generative Modeling** are the two sides of the same coin. But how exactly do we transform one into the other? 
-
-- **How to design binders to a target from sequence alone?** 
-  - Structure-based protein design has been the star of the show. But what about sequence-based design? Sequences encode the complete blueprint of a protein and thus, in theory, should be on par with their structure-based counterparts. Yet, the chasm is vast. How to fill in the gap?
-
+- **Generative Models for Protein Design**: 
+  - Efficient generation, binder design, and compositional generation.
 - **The third dimension of protein language models(pLMs).** 
   - pLMs is reaching a plateau, with model sizes and training corpora stretching their limits. What lies beyond? A more efficient architecture or a deeper integration of biological context.
 
