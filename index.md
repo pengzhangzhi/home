@@ -8,10 +8,12 @@ Hey there! I'm Zhangzhi/Fred, a BME Ph.D. student at [Chatterjee Lab](https://ww
 
 <!-- ## Research Interests -->
 
-- **Generative Models for Protein Design**: 
-  - Efficient generation, binder design, and compositional generation.
+- **Generative Models**: 
+  - Efficient generation, compositional generation, diffusion models for optimization.
 - **The third dimension of protein language models(pLMs).** 
   - pLMs is reaching a plateau, with model sizes and training corpora stretching their limits. What lies beyond? A more efficient architecture or a deeper integration of biological context.
+- **Protein Design**
+  - Binder generation for therapeutics, Optimizing existing proteins.
 
 
 ## News
