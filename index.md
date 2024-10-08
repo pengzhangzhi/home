@@ -30,4 +30,4 @@ Hey there! I'm Fred/Zhangzhi, a Ph.D. student at [Chatterjee Lab](https://www.ch
 ## Misc
 
  - I maintain my [CV of Failure](pages/cv_of_failure.md), which many find to be encouraging.
- - I like to think about [puzzles](pages/puzzles.md) from my research when I'm off sciencing.
+ - I like to think about [puzzles](pages/pages/puzzles.md) from my research when I'm off sciencing.
