@@ -7,12 +7,12 @@ layout: homepage
 Hey there! I'm Fred/Zhangzhi, a Ph.D. student at [Chatterjee Lab](https://www.chatterjeelab.com/), BME, Duke University. I'm broadly interested in machine learning and protein design. Long-term problems I'm pursuing:
 <!-- ## Research Interests -->
 
-- **Generative Models**: 
-  - Efficient generation, compositional generation, diffusion models for optimization.
-- **The third dimension of protein language models(pLMs).** 
-  - pLMs is reaching a plateau, with model sizes and training corpora stretching their limits. What lies beyond? A more efficient architecture or a deeper integration of biological context.
-- **Protein Design**
-  - Binder generation for therapeutics, Optimizing existing proteins.
+- **Generative Models** (Discrete Diffusion)
+
+- **Protein Language Models (pLMs).** 
+
+- **Protein Design** (motif-scaffolding, binder design)
+
 
 
 ## News
