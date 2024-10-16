@@ -8,9 +8,7 @@ Hey there! I'm Fred/Zhangzhi, a Ph.D. student at [Chatterjee Lab](https://www.ch
 <!-- ## Research Interests -->
 
 - **Generative Models** (Discrete Diffusion)
-
 - **Protein Language Models (pLMs).** 
-
 - **Protein Design** (motif-scaffolding, binder design)
 
 
