@@ -28,4 +28,4 @@ Hey there! I'm Fred, a Ph.D. student at [Chatterjee Lab](https://www.chatterjeel
 ## Misc
  - None of my work would be possible without the amazing brains I work with, [Alex Tong](https://www.alextong.net/), [Chengtong Wang](https://github.com/Wangchentong), etc. 
  - I maintain my [CV of Failure](pages/cv_of_failure.md), which many find to be encouraging.
- - I like to think about [puzzles](pages/pages/puzzles.md) from my research when I'm off sciencing.
+ - I think science and knowledge should be freely accessible to all levels of society and all countries across the world. 
