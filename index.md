@@ -28,4 +28,5 @@ Hey there! I'm Fred, a Ph.D. student at [Chatterjee Lab](https://www.chatterjeel
 ## Misc
  - None of my work would be possible without the amazing brains I work with, [Alex Tong](https://www.alextong.net/), [Chengtong Wang](https://github.com/Wangchentong), etc. 
  - I maintain my [CV of Failure](pages/cv_of_failure.md), which many find to be encouraging.
- - I think science and knowledge should be freely accessible to all levels of society and all countries across the world. 
+ - I believe science and knowledge should be freely accessible to all people in the world.
+ - I like boxing, running, swimming, hooping, etc. Besides sports, I like watching loss go down and the diffusion sampling process.
