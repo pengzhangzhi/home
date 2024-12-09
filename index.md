@@ -28,6 +28,6 @@ Hey there! I'm Fred, a Ph.D. student at [Chatterjee Lab](https://www.chatterjeel
 ## Misc
  - None of my work would be possible without the amazing brains I work with, [Alex Tong](https://www.alextong.net/), [Chengtong Wang](https://github.com/Wangchentong), etc. 
  - I maintain my [CV of Failure](pages/cv_of_failure.md), which many find to be encouraging.
- - I care about education equality and try to spend the rest of my spare time making science and knowledge more open.
- - I'm proudly maintaining a couple of open-source projects in my [GitHub](https://github.com/pengzhangzhi) and occasionally invite folks to share their latest work.
  - I like boxing, running, swimming, hooping, etc. Besides sports, I like watching loss go down and the diffusion sampling process.
+ - I care about education equality and try to spend the rest of my spare time making science and knowledge more open.
+ That said, I proudly maintain open-source projects in my [GitHub](https://github.com/pengzhangzhi) and occasionally invite folks to share their latest work.
