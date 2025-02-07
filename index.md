@@ -7,7 +7,7 @@ layout: homepage
 Hey there! I'm Fred, a Ph.D. student at [Chatterjee Lab](https://www.chatterjeelab.com/), BME, Duke University. I'm interested in machine learning with applications in life science. Long-term problems I'm pursuing:
 <!-- ## Research Interests -->
 
-- **Generative Models** (Continuous and Discrete Diffusion)
+- **Generative Models**
 - **Protein Language Models (pLMs).** 
 - **Protein Design** 
 
