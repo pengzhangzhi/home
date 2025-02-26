@@ -1,11 +1,19 @@
 main:
+
+  - title: "Path Planning for Masked Diffusion Model Sampling"
+    authors: Fred Zhangzhi Peng, Zachary Bezemek, Sawan Patel, Jarrid Rector-Brooks, Sherwood Yao, Alexander Tong, Pranam Chatterjee
+    conference_short: Arxiv
+    conference: Arxiv
+    pdf: https://arxiv.org/abs/2502.03540
+    code: https://arxiv.org/abs/2502.03540
+    image: ./assets/img/p2.png
+    
   - title: "Proteus: Exploring Protein Structure Generation for Enhanced Designability and Efficiency"
     authors: Chentong Wang, Yannan Qu, Zhangzhi Peng, Yukai Wang, Hongli Zhu, Dachuan Chen, Longxing Cao
     conference_short: ICML24
     conference: ICML24
     pdf: https://openreview.net/forum?id=IckJCzsGVS
     code: https://github.com/Wangchentong/Proteus
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/proteus.png
 
     
@@ -15,17 +23,9 @@ main:
     conference: in press Nature Methods
     pdf: https://www.biorxiv.org/content/10.1101/2024.02.28.581983v1.full.pdf
     code: https://github.com/programmablebio/ptm-mamba
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/ptmmamba.png
     Video: https://www.youtube.com/watch?v=mjmw7rjxOs4&t=2202s
 
-  - title: "Generative diffusion models for antibody design, docking, and optimization"
-    authors: Zhangzhi Peng, Chenchen Han, Xiaohan Wang, Dapeng Li, Fajiie Yuan
-    conference_short: bioRxiv
-    conference: bioRxiv
-    pdf: https://www.biorxiv.org/content/10.1101/2023.09.25.559190v1.full.pdf
-    code: https://github.com/pengzhangzhi/ab_opt
     page: hhttps://pengzhangzhi.github.io/ab_opt_homepage/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
     image: ./assets/img/ab_opt.png
