@@ -26,6 +26,3 @@ main:
     image: ./assets/img/ptmmamba.png
     Video: https://www.youtube.com/watch?v=mjmw7rjxOs4&t=2202s
 
-    page: hhttps://pengzhangzhi.github.io/ab_opt_homepage/
-    # notes: Oral Presentation
-    image: ./assets/img/ab_opt.png
