@@ -7,7 +7,7 @@ main:
     pdf: https://arxiv.org/abs/2502.03540
     code: https://github.com/pengzhangzhi/Path-Planning
     image: ./assets/img/p2.jpg
-    viode: https://youtu.be/6JnFNpvrU30
+    video: https://youtu.be/6JnFNpvrU30
     
   - title: "Proteus: Exploring Protein Structure Generation for Enhanced Designability and Efficiency"
     authors: Chentong Wang, Yannan Qu, Zhangzhi Peng, Yukai Wang, Hongli Zhu, Dachuan Chen, Longxing Cao
