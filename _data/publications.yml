@@ -22,8 +22,8 @@ main:
   - title: "PTM-Mamba: A PTM-Aware Protein Language Model with Bidirectional Gated Mamba Blocks"
     authors: Zhangzhi Peng, Benjamin Schussheim, Pranam Chatterjee
     conference_short: Nature Methods
-    conference: in press Nature Methods
-    pdf: https://www.biorxiv.org/content/10.1101/2024.02.28.581983v1.full.pdf
+    conference: Nature Methods
+    pdf: https://www.nature.com/articles/s41592-025-02656-9
     code: https://github.com/programmablebio/ptm-mamba
     image: ./assets/img/ptmmamba.png
     Video: https://www.youtube.com/watch?v=mjmw7rjxOs4&t=2202s
