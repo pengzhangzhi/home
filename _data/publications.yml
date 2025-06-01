@@ -1,7 +1,7 @@
 main:
 
   - title: "Path Planning for Masked Diffusion Model Sampling"
-    authors: Fred Zhangzhi Peng, Zachary Bezemek, Sawan Patel, Jarrid Rector-Brooks, Sherwood Yao, Alexander Tong, Pranam Chatterjee
+    authors: Fred Zhangzhi Peng, Zachary Bezemek, Sawan Patel, Jarrid Rector-Brooks, Sherwood Yao, Avishek Joey Bose, Alexander Tong, Pranam Chatterjee
     conference_short: [DeLTa@ICLR2025 Outstanding Paper Award](https://github.com/Delta-Workshop/Delta-Workshop.github.io/blob/main/figures/long_paper_outstanding_paper_path.png)
     conference: [DeLTa@ICLR2025 Outstanding Paper Award](https://github.com/Delta-Workshop/Delta-Workshop.github.io/blob/main/figures/long_paper_outstanding_paper_path.png)
     pdf: https://arxiv.org/abs/2502.03540
