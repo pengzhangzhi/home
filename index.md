@@ -11,7 +11,7 @@ Long-term problems I'm pursuing:
 
 - **Generative Models**
 -  **Protein Design** 
-- **Discrete Diffusion Models** (or the catchy name diffusion large langauge models)
+- **Discrete Diffusion Models** (or the hype name diffusion large langauge models)
 - **Protein Language Models (pLMs).** 
 
 
