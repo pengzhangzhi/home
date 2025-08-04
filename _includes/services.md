@@ -1,15 +1,7 @@
 ## Services
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
-<ul style="margin:0 0 5px;">
-  <li><a href="https://iclr.cc/"><autocolor>NIPS 2025</autocolor></a></li>
-  </ul> 
-  <ul style="margin:0 0 5px;">
-  <li><a href="https://iclr.cc/"><autocolor>KDD 2025</autocolor></a></li>
-  </ul> 
-<ul style="margin:0 0 5px;">
-  <li><a href="https://iclr.cc/"><autocolor>ICLR 2025</autocolor></a></li>
-  </ul> 
+<p style="margin:0 0 5px;">NIPS 2025, KDD 2025, ICLR 2025</p>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
