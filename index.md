@@ -4,11 +4,13 @@ layout: homepage
 
 ## About Me
 
-Hey there! I’m Fred, a third-year Ph.D. student at Duke University. I have broad interests in machine learning, and its applications in life sciences. I work with [Anru](https://anruzhang.github.io/) on statistical machine learning, [Alex](https://www.alextong.net/) on generative models, and [Pranam](https://www.chatterjeelab.com/) on protein design. 
-I like coding and building infrastructure around a problem to accelerate its development. Check out my [GitHub](https://github.com/pengzhangzhi). 
+Hey there! I’m Fred, a third-year Ph.D. student at Duke University. I have broad interests in machine learning, and its applications in life science. I work with [Anru](https://anruzhang.github.io/) on statistical machine learning, [Alex](https://www.alextong.net/) on generative models, [Chris](https://christian.dallago.us/) on ML4Bio, and [Pranam](https://www.chatterjeelab.com/) on protein design. My research aims to scale up the math to hundreds of GPUs and sees what wonderful things emerge.
+
+I code so the field don’t have to reinvent the wheel. Building tools, and infra one commit at a time — peep the goods on [GitHub](https://github.com/pengzhangzhi). 
+ 
  **I believe science should be acessible to everyone.**
 
-Recently been vibing with discrete diffusion models—drawn to problems like fast (few-step) sampling, inference-time scaling, and real applications in bio-sequence design and code generation.
+Recently been vibing with discrete diffusion models—making it faster (few-step) sampling, or slower inference-time scaling, and real applications in bio-sequence design and code generation.
 
 Long-term problems I'm pursuing:
 <!-- ## Research Interests -->
