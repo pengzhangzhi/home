@@ -1,6 +1,6 @@
 main:
   - title: "Open-dLLM: Open Diffusion Large Language Model"
-    image: ./assets/img/p2.jpg
+    image: ./assets/img/quick-sort-thumbnail.jpg
     authors: Fred Zhangzhi Peng, Shuibai Zhang, Alexander Tong
     blog: https://oval-shell-31c.notion.site/Open-dLLM-Open-Diffusion-Large-Language-Model-25e03bf6136480b7a4ebe3d53be9f68a?pvs=74
     code: https://github.com/pengzhangzhi/Open-dLLM
