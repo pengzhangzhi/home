@@ -8,7 +8,7 @@ Hey there! I’m Fred, a third-year Ph.D. student at Duke University. I have bro
 
 I love coding and science. At the end of the day, what makes me happy isn’t publishing a paper. It’s doing solid work that actually moves the field forward — whether that’s a tool, a model, or a line of code that makes the field’s life easier. I believe science should be accessible to everyone, and open-source is how I try to make that real - peep the goods on my [GitHub](https://github.com/pengzhangzhi). 
  
-Recently been vibing with discrete diffusion models—making it faster (few-step) sampling, or slower (inference-time scaling), and real applications in bio-sequence design and code generation.
+I spent my 2024 on protein language model, 2025 on diffusion language model, and will bet my 2026 on normalizing flows.
 
 Long-term problems I'm pursuing:
 <!-- ## Research Interests -->
