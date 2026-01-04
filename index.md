@@ -36,5 +36,5 @@ Long-term problems I'm pursuing:
 
 ## Misc
  - None of my work would be possible without the amazing brains I work with, [Chengtong Wang](https://github.com/Wangchentong), [Zachary W Bezemek](https://scholars.duke.edu/person/zachary.bezemek/research) etc. 
- - I like boxing, running, swimming, hooping, surfing, skiing etc. Besides sports, I like watching loss go down and the diffusion sampling process.
+ - In my spare time, I run, play tennis, surf, and ski. Besides sports, I like watching loss go down and the diffusion sampling process.
  - I care about education equality and try to spend the rest of my spare time making science and knowledge more open.
