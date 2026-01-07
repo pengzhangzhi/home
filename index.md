@@ -8,7 +8,7 @@ Hey there! I’m Fred, a third-year Ph.D. student at Duke University. I have bro
 
 I love coding and science. At the end of the day, what makes me happy isn’t publishing a paper. It’s making solid contributions that actually move the field forward — whether that’s a tool, a model, an equation, or a line of code that makes your life easier. I believe science should be accessible to everyone, and open-source is how I try to make that real - peep the goods on my [GitHub](https://github.com/pengzhangzhi). 
 
-> **“I spent my 2024 on protein language models, 2025 on diffusion language models, and will bet my 2026 on normalizing flows.”**
+**“I spent my 2024 on protein language models, 2025 on diffusion language models, and will bet my 2026 on normalizing flows.”**
 
 
 Long-term problems I'm pursuing:
