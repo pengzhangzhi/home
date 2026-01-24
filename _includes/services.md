@@ -7,4 +7,6 @@
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8857"><autocolor>IEEE/ACM Transactions on Computational Biology and Bioinformatics</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/computational-and-structural-biotechnology-journal"><autocolor>Computational and Structural Biotechnology Journal</autocolor></a></li>
+  
 </ul> 
