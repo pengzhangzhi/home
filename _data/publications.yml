@@ -3,7 +3,7 @@ main:
     image: ./assets/img/pl.jpg
     authors: Fred Zhangzhi Peng, Zachary Bezemek, Jarrid Rector-Brooks, Shuibai Zhang, Anru R. Zhang, Michael Bronstein, Avishek Joey Bose, Alexander Tong
     pdf: https://arxiv.org/pdf/2509.23405
-
+    conference: ICLR2026
   - title: "Open-dLLM: Open Diffusion Large Language Model"
     image: ./assets/img/quick-sort-thumbnail.jpg
     authors: Fred Zhangzhi Peng, Shuibai Zhang, Alexander Tong
@@ -13,7 +13,7 @@ main:
   - title: "Path Planning for Masked Diffusion Model Sampling"
     authors: Fred Zhangzhi Peng, Zachary Bezemek, Sawan Patel, Jarrid Rector-Brooks, Sherwood Yao, Avishek Joey Bose, Alexander Tong, Pranam Chatterjee
     conference_short: DeLTa@ICLR2025
-    conference: ICML,NIPS2025 Rejected, DeLTa@ICLR2025 Outstanding Paper Award
+    conference: DeLTa@ICLR2025 Outstanding Paper Award, and rejected by ICML, NIPS2025,ICLR2026 
     pdf: https://arxiv.org/abs/2502.03540
     code: https://github.com/pengzhangzhi/Path-Planning
     image: ./assets/img/p2.jpg
