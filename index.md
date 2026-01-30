@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hey there! I’m Fred, a third-year Ph.D. student at Duke University. I have broad interests in machine learning and its applications in life science. I work with [Anru](https://anruzhang.github.io/) on statistical machine learning, [Alex](https://www.alextong.net/) on generative models, [Chris](https://christian.dallago.us/) on ML4Bio. My research aims to scale up the math on GPUs and see what wonderful things emerge.
+Hey there! I’m Fred, a third-year Ph.D. student at Duke University. I have broad interests in machine learning and its applications in scientific problems. I work with [Anru](https://anruzhang.github.io/) on statistical machine learning, [Alex](https://www.alextong.net/) on generative models, [Chris](https://christian.dallago.us/) on ML4Bio. My research aims to scale up the math on GPUs and see what wonderful things emerge.
 
 I love coding and science. At the end of the day, what makes me proud isn’t necessarily publishing a paper. It’s making solid contributions that actually move the field forward — whether that’s a tool, a model, an equation, or a line of code that makes your life easier. I believe science should be accessible to everyone, and open-source is how I try to make that real - peep the goods on my [GitHub](https://github.com/pengzhangzhi). 
 
