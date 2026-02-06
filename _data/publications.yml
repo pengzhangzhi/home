@@ -5,6 +5,7 @@ main:
     pdf: https://arxiv.org/pdf/2509.23405
     conference_short: ICLR2026, Oral
     conference: ICLR2026, <span style="color:#d0021b; font-weight:600;">Oral (top 2%)</span>
+    
   - title: "Open-dLLM: Open Diffusion Large Language Model"
     image: ./assets/img/quick-sort-thumbnail.jpg
     authors: Fred Zhangzhi Peng, Shuibai Zhang, Alexander Tong
@@ -15,7 +16,7 @@ main:
   - title: "Path Planning for Masked Diffusion Model Sampling"
     authors: Fred Zhangzhi Peng, Zachary Bezemek, Sawan Patel, Jarrid Rector-Brooks, Sherwood Yao, Avishek Joey Bose, Alexander Tong, Pranam Chatterjee
     conference_short: DeLTa@ICLR2025
-    conference: DeLTa@ICLR2025 Outstanding Paper Award, and rejected by ICML, NIPS2025,ICLR2026 
+    conference: DeLTa@ICLR2025 <span style="color:#d0021b; font-weight:600;">Outstanding Paper Award</span>, and rejected by ICML, NIPS2025,ICLR2026 
     pdf: https://arxiv.org/abs/2502.03540
     code: https://github.com/pengzhangzhi/Path-Planning
     image: ./assets/img/p2.jpg
