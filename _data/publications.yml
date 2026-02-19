@@ -4,7 +4,7 @@ main:
     authors: Fred Zhangzhi Peng, Zachary Bezemek, Jarrid Rector-Brooks, Shuibai Zhang, Anru R. Zhang, Michael Bronstein, Avishek Joey Bose, Alexander Tong
     pdf: https://arxiv.org/pdf/2509.23405
     conference_short: ICLR2026, Oral
-    conference: ICLR2026, <span style="color:#d0021b; font-weight:600;">Oral (top 2%)</span>
+    conference: ICLR2026, <span style="color:#d0021b; font-weight:600;">Oral (top 1%)</span>
     code: https://github.com/pengzhangzhi/Open-dLLM
   - title: "Open-dLLM: Open Diffusion Large Language Model"
     image: ./assets/img/quick-sort-thumbnail.jpg
