@@ -23,6 +23,7 @@ Long-term problems I'm pursuing:
 
 ## News
 
+- **[Mar. 2026]** We recently taught a short course at the ENAR 2026 Spring Meeting on generative models for protein, cell, and biomedical data with [Anru Zhang](https://anruzhang.github.io/) and [Alex Tong](https://www.alextong.net/). Course materials are available here: [ENAR 2026 Course Homepage](https://pengzhangzhi.github.io/ENAR26-Course-Homepage).
 - **[Aug. 2025]** Interned with the ByteDance-Seed AI-for-Science team.
 - **[Oct. 2024]** NSF Travel Award for CIKM 2024.
 - **[Oct. 2024]** Duke BME Travel Award for BMES 2024.
