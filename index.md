@@ -13,8 +13,7 @@ I love coding and science. At the end of the day, what makes me proud isn’t ne
 **I'm betting my 2026 on normalizing flows.**
 
 <div class="north-star-callout">
-  <p class="north-star-callout__lead">I keep coming back to this:</p>
-  <p class="north-star-callout__quote">the goal is not to be slightly better, but to do work that is creative, original, and genuinely useful.</p>
+  <p class="north-star-callout__lead">I keep reminding myself this:</p>
   <figure class="north-star-callout__figure">
     <img src="./assets/img/impact.jpg" alt="A figure showing that paper quality has little effect until work becomes creative, original, and good, at which point impact rises sharply." />
   </figure>
