@@ -204,6 +204,42 @@ p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
 
+.north-star-callout {
+  margin: 28px 0 34px;
+  padding: 22px 22px 18px;
+  border: 1px solid rgba(4, 51, 97, 0.14);
+  border-radius: 16px;
+  background: linear-gradient(180deg, rgba(4, 51, 97, 0.04), rgba(4, 51, 97, 0.01));
+}
+
+.north-star-callout__lead,
+.north-star-callout__quote {
+  margin-bottom: 12px;
+}
+
+.north-star-callout__lead {
+  font-size: 0.95rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #043361;
+}
+
+.north-star-callout__quote {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.north-star-callout__figure {
+  margin: 16px 0 4px;
+}
+
+.north-star-callout__figure img {
+  display: block;
+  width: 100%;
+  border-radius: 12px;
+}
+
 h1, h2, h3 {
   line-height:1.1;
 }
