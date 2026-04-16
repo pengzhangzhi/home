@@ -46,3 +46,4 @@ Long-term problems I'm pursuing:
 ## Misc
  - In my spare time, I work out, run, play tennis, surf, and ski. Besides sports, I like watching losses go down and the generative sampling process.
  - I care about education equality and try to spend the rest of my spare time making science and knowledge more open.
+ - My Prelim slide is available at [this link](https://docs.google.com/presentation/d/1Li_E3pZBQ_Q_DrnRRnU1v1q3acc_Tz1IPnvHdtYyW4k/edit?usp=sharing).
