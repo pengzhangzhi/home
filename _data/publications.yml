@@ -6,6 +6,7 @@ main:
     conference_short: ICLR2026, Oral
     conference: ICLR2026, <span style="color:#d0021b; font-weight:600;">Oral (top 1%)</span>
     code: https://github.com/pengzhangzhi/PAPL
+    slides: https://docs.google.com/presentation/d/10Bzt7_7IGLrBMtoa7T01S7O1QU0UO2qLMIPGWRCqeQY/edit?usp=sharing
     video: https://www.youtube.com/watch?v=MBgNIZFnKjQ
   - title: "Open-dLLM: Open Diffusion Large Language Model"
     image: ./assets/img/quick-sort-thumbnail.jpg
