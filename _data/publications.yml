@@ -6,6 +6,7 @@ main:
     conference_short: ICLR2026, Oral
     conference: ICLR2026, <span style="color:#d0021b; font-weight:600;">Oral (top 1%)</span>
     code: https://github.com/pengzhangzhi/PAPL
+    video: https://www.youtube.com/watch?v=MBgNIZFnKjQ
   - title: "Open-dLLM: Open Diffusion Large Language Model"
     image: ./assets/img/quick-sort-thumbnail.jpg
     authors: Fred Zhangzhi Peng, Shuibai Zhang, Alexander Tong
@@ -40,4 +41,3 @@ main:
     code: https://github.com/programmablebio/ptm-mamba
     image: ./assets/img/ptmmamba.png
     video: https://www.youtube.com/watch?v=mjmw7rjxOs4&t=2202s
-
