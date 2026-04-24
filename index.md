@@ -14,7 +14,7 @@ I love coding and science. At the end of the day, what makes me proud isn’t ne
 <div class="north-star-callout">
   <p class="north-star-callout__lead">I keep reminding myself this:</p>
   <figure class="north-star-callout__figure">
-    <img src="./assets/img/impact.jpg" alt="A figure showing that paper quality has little effect until work becomes creative, original, and good, at which point impact rises sharply." />
+    <img src="./assets/img/impact-of-your-work.png" alt="A figure titled The impact of your work, showing impact rising sharply only when the work becomes creative, original, and good." />
   </figure>
 </div>
 
