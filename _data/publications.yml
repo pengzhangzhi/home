@@ -7,7 +7,7 @@ main:
     conference: arXiv preprint, 2026
     code: https://github.com/pengzhangzhi/Coupling-Models
   - title: "Don't Retrain, Align: Adapting Autoregressive LMs to Diffusion LMs via Representation Alignment"
-    image: ./assets/img/dont-retrain-align-cover.png
+    image: ./assets/img/repr-align-cover.png
     authors: Fred Zhangzhi Peng, Alexis Fox, Anru R. Zhang, Alexander Tong
     pdf: https://arxiv.org/pdf/2605.06885.pdf
     code: https://github.com/pengzhangzhi/Open-dLLM
