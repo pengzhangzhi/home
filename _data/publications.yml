@@ -1,4 +1,18 @@
 main:
+  - title: "Coupling Models for One-Step Discrete Generation"
+    image: ./assets/img/coupling-models-method.png
+    authors: Fred Zhangzhi Peng, Avishek Joey Bose, Anru R. Zhang, Alexander Tong
+    pdf: https://arxiv.org/pdf/2605.07193.pdf
+    conference_short: arXiv
+    conference: arXiv preprint, 2026
+    code: https://github.com/pengzhangzhi/Coupling-Models
+  - title: "Don't Retrain, Align: Adapting Autoregressive LMs to Diffusion LMs via Representation Alignment"
+    image: ./assets/img/dont-retrain-align-cover.png
+    authors: Fred Zhangzhi Peng, Alexis Fox, Anru R. Zhang, Alexander Tong
+    pdf: https://arxiv.org/pdf/2605.06885.pdf
+    code: https://github.com/pengzhangzhi/Open-dLLM
+    conference_short: arXiv
+    conference: arXiv preprint, 2026
   - title: "Planner Aware Path Learning in Diffusion Language Models Training"
     image: ./assets/img/pl.jpg
     authors: Fred Zhangzhi Peng, Zachary Bezemek, Jarrid Rector-Brooks, Shuibai Zhang, Anru R. Zhang, Michael Bronstein, Avishek Joey Bose, Alexander Tong
@@ -8,13 +22,6 @@ main:
     code: https://github.com/pengzhangzhi/PAPL
     slides: https://docs.google.com/presentation/d/10Bzt7_7IGLrBMtoa7T01S7O1QU0UO2qLMIPGWRCqeQY/edit?usp=sharing
     video: https://www.youtube.com/watch?v=MBgNIZFnKjQ
-  - title: "Open-dLLM: Open Diffusion Large Language Model"
-    image: ./assets/img/quick-sort-thumbnail.jpg
-    authors: Fred Zhangzhi Peng, Shuibai Zhang, Alexander Tong
-    blog: https://oval-shell-31c.notion.site/Open-dLLM-Open-Diffusion-Large-Language-Model-25e03bf6136480b7a4ebe3d53be9f68a?pvs=74
-    code: https://github.com/pengzhangzhi/Open-dLLM
-     
-    
   - title: "Path Planning for Masked Diffusion Model Sampling"
     authors: Fred Zhangzhi Peng, Zachary Bezemek, Sawan Patel, Jarrid Rector-Brooks, Sherwood Yao, Avishek Joey Bose, Alexander Tong, Pranam Chatterjee
     conference_short: DeLTa@ICLR2025
