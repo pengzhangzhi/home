@@ -1,4 +1,10 @@
 main:
+  - title: "Distilled Continuous Diffusion Language Models Can Write Code in Few Steps—or One"
+    authors: Fred Zhangzhi Peng, Kaiwen Zheng, Anru R. Zhang
+    pdf: https://arxiv.org/abs/2609.04531
+    conference_short: arXiv
+    conference: arXiv preprint, 2026
+    code: https://github.com/pengzhangzhi/plaidq
   - title: "Coupling Models for One-Step Discrete Generation"
     image: ./assets/img/coupling-models-method.png
     authors: Fred Zhangzhi Peng, Avishek Joey Bose, Anru R. Zhang, Alexander Tong
