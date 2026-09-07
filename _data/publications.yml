@@ -6,6 +6,7 @@ main:
     conference_short: arXiv
     conference: arXiv preprint, 2026
     code: https://github.com/pengzhangzhi/plaidq
+    poster: ./assets/posters/PlaidQ_Poster_24x36.pptx
   - title: "Coupling Models for One-Step Discrete Generation"
     image: ./assets/img/coupling-models-method.png
     authors: Fred Zhangzhi Peng, Avishek Joey Bose, Anru R. Zhang, Alexander Tong
@@ -13,11 +14,13 @@ main:
     conference_short: arXiv
     conference: arXiv preprint, 2026
     code: https://github.com/pengzhangzhi/Coupling-Models
+    poster: ./assets/posters/Coupling_Models_Poster_24x36.pptx
   - title: "Don't Retrain, Align: Adapting Autoregressive LMs to Diffusion LMs via Representation Alignment"
     image: ./assets/img/repr-align-cover.png
     authors: Fred Zhangzhi Peng, Alexis Fox, Anru R. Zhang, Alexander Tong
     pdf: https://arxiv.org/pdf/2605.06885.pdf
     code: https://github.com/pengzhangzhi/Open-dLLM
+    poster: ./assets/posters/ReprAlign_Poster_24x36.pptx
     slides: https://docs.google.com/presentation/d/1RhLb5wuCJvriklICFjw9Aj17lnQyAKXvSP6XUB0fhZQ/edit?usp=sharing
     conference_short: arXiv
     conference: arXiv preprint, 2026
