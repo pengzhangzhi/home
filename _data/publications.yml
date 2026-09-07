@@ -1,5 +1,6 @@
 main:
   - title: "Distilled Continuous Diffusion Language Models Can Write Code in Few Steps—or One"
+    image: ./assets/img/plaidq-teaser.gif
     authors: Fred Zhangzhi Peng, Kaiwen Zheng, Anru R. Zhang
     pdf: https://arxiv.org/abs/2609.04531
     conference_short: arXiv
