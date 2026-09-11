@@ -5,7 +5,6 @@ layout: homepage
 ## About Me
 
 Hey there! I’m Fred, a fourth-year Ph.D. student at Duke University. I have broad interests in machine learning and its applications in scientific problems. I work with [Anru](https://anruzhang.github.io/) on statistical machine learning, [Alex](https://www.alextong.net/) on generative models, [Chris](https://christian.dallago.us/) on ML4Bio. Previously, I worked with [Pranam](https://www.chatterjeelab.com/) on protein design when he was at Duke.
-Apart from Duke, I've also received research training from industry, Bytedance Seed ([AI-for-Science](https://seed.bytedance.com/en/direction/ai_for_science), 2025 summer), and NVIDIA ([Fundamental Generative AI Research Group](https://research.nvidia.com/labs/genair/), 2026 summer). 
 My research aims to scale up the math on GPUs and see what wonderful things emerge. 
 
 I love coding and science. At the end of the day, what makes me proud isn’t necessarily publishing a paper. It’s making solid contributions that actually move the field forward — whether that’s a tool, a model, an equation, or a line of code that makes your life easier. I believe science should be accessible to everyone, and open-source is how I try to make that real - peep the goods on my [GitHub](https://github.com/pengzhangzhi). 
