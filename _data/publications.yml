@@ -4,8 +4,8 @@ main:
     image: ./assets/img/coupling-models-method.png
     authors: Fred Zhangzhi Peng, Avishek Joey Bose, Anru R. Zhang, Alexander Tong
     pdf: https://arxiv.org/pdf/2605.07193.pdf
-    conference_short: arXiv
-    conference: arXiv preprint, 2026
+    conference_short: NeurIPS2026
+    conference: NeurIPS2026
     code: https://github.com/pengzhangzhi/Coupling-Models
     poster: ./assets/posters/Coupling_Models_Poster_24x36.pptx
   - title: "Don't Retrain, Align: Adapting Autoregressive LMs to Diffusion LMs via Representation Alignment"
