@@ -185,3 +185,21 @@ Our project uses the source code from the following repositories:
 * [orderedlist/minimal](https://github.com/orderedlist/minimal)
 
 * [al-folio](https://github.com/alshedivat/al-folio)
+
+## Blog
+
+Read the blog at https://pengzhangzhi.github.io/home/blog/.
+
+To publish, create `_posts/YYYY-MM-DD-title.md` with this front matter, write the body in Markdown, and push to `main`:
+
+```yaml
+---
+layout: blog-post
+title: "Post title"
+date: 2026-10-13
+permalink: /blog/post-title/
+description: "A short description."
+---
+```
+
+The blog index updates automatically. Set `published: false` to keep a draft unpublished.

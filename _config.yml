@@ -8,7 +8,7 @@ email: zhangzhi.peng@duke.edu
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Zhangzhi Peng, Fred Peng, Fred Zhangzhi Peng
 description: Fred's academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+canonical: https://pengzhangzhi.github.io/home/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -55,3 +55,7 @@ exclude:
   - LICENSE
   - minimal-light.gemspec
   - html_source_file/
+
+# GitHub Pages site address
+url: "https://pengzhangzhi.github.io"
+baseurl: "/home"

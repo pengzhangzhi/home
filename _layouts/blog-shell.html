@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | escape }} · Fred Peng</title>
+  <meta name="description" content="{{ page.description | escape }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="icon" href="{{ '/assets/img/animate.png' | relative_url }}">
+  <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/blog.css' | relative_url }}">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <div class="site-wrap">
+    <header><a href="{{ '/' | relative_url }}">Fred Peng</a><nav aria-label="Main navigation"><a href="{{ '/' | relative_url }}">Home</a><a href="{{ '/blog/' | relative_url }}">Blog</a></nav></header>
+    <main id="main">{{ content }}</main>
+    <footer>Fred Peng · 彭张智</footer>
+  </div>
+</body>
+</html>
