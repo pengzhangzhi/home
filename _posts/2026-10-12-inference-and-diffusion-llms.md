@@ -12,6 +12,7 @@ description: "A compact reading list on inference startups, speculative decoding
 
 
 ## Inference startups
+- [PrismML](https://prismml.com/) — Bonsai low-bit models for efficient on-device inference.
 - [Inco AI](https://inco.ai/blog/dflash2/) — DFlash team.
 - [Mirai](https://trymirai.com/) — On-device inference, Apple Silicon models, uzu inference engine, and quantization.
 - [diffuspace](https://diffuspace.ai/news) - on-device dLLM for  AI PCs, robotics, intelligent vehicles, and smart homes.
