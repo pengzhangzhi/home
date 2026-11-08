@@ -13,7 +13,7 @@ I love coding and science. At the end of the day, what makes me proud isn’t ne
 <div class="north-star-callout">
   <p class="north-star-callout__lead">I keep reminding myself this:</p>
   <figure class="north-star-callout__figure">
-    <img src="./assets/img/impact-of-your-work.png" alt="A figure titled The impact of your work, showing impact rising sharply only when the work becomes creative, original, and good." />
+    <img loading="lazy" src="./assets/img/impact-of-your-work.png" alt="A figure titled The impact of your work, showing impact rising sharply only when the work becomes creative, original, and good." />
   </figure>
 </div>
 
@@ -44,4 +44,4 @@ Long-term problems I'm pursuing:
 ## Misc
  - In my spare time, I work out, run, play tennis, surf, and ski. Besides sports, I like watching losses go down and the generative sampling process.
  - I care about education equality and try to spend the rest of my spare time making science and knowledge more open.
- - My Prelim slide is available at [this link](https://docs.google.com/presentation/d/1Li_E3pZBQ_Q_DrnRRnU1v1q3acc_Tz1IPnvHdtYyW4k/edit?usp=sharing).
+ - My [Prelim slide](https://docs.google.com/presentation/d/1Li_E3pZBQ_Q_DrnRRnU1v1q3acc_Tz1IPnvHdtYyW4k/edit?usp=sharing).

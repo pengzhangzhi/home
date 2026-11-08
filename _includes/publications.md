@@ -1,68 +1,27 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<h2 id="publications">Publications</h2>
+<p>Transparency and reproducibility are important to me. I ensure open code accompanying my first-author publications. Below are selected papers. Please refer to my <a href="https://scholar.google.co.uk/citations?hl=en&user=bZwJ9oUAAAAJ">Google Scholar</a> for complete publications.</p>
 
-<div class="publications">
-<ol class="bibliography">
-  
-Transparency and reproducibility are important to me. I ensure open code accompanying my first-author publications. Below are selected papers. Please refer to my <a href="https://scholar.google.co.uk/citations?hl=en&user=bZwJ9oUAAAAJ">Google Scholar</a> for complete publications.  
-  
-  
+<ol class="publications">
 {% for link in site.data.publications.main %}
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    {% if link.image %} 
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
-    {% endif %}
-    {% if link.conference_short %} 
-    <abbr class="badge">{{ link.conference_short }}</abbr>
-    {% endif %}
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
-      <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.conference }}</em>
+  <li class="publication">
+    {% if link.image %}<div class="publication-image"><img src="{{ link.image | relative_url }}" alt="" loading="lazy">{% if link.conference_short %}<span class="publication-badge">{{ link.conference_short }}</span>{% endif %}</div>{% endif %}
+    <div class="publication-details">
+      <h3>{% if link.pdf %}<a href="{{ link.pdf }}">{{ link.title }}</a>{% else %}{{ link.title }}{% endif %}</h3>
+      <p class="publication-authors">{{ link.authors }}</p>
+      <p class="publication-venue">{{ link.conference }}</p>
+      <div class="publication-links">
+        {% if link.pdf %}<a href="{{ link.pdf }}" aria-label="PDF — {{ link.title | escape }}">PDF</a>{% endif %}
+        {% if link.code %}<a href="{{ link.code }}" aria-label="Code — {{ link.title | escape }}">Code</a>{% endif %}
+        {% if link.page %}<a href="{{ link.page }}" aria-label="Project Page — {{ link.title | escape }}">Project Page</a>{% endif %}
+        {% if link.blog %}<a href="{{ link.blog }}" aria-label="Blog — {{ link.title | escape }}">Blog</a>{% endif %}
+        {% if link.slides %}<a href="{{ link.slides }}" aria-label="Slides — {{ link.title | escape }}">Slides</a>{% endif %}
+        {% if link.poster %}<a href="{{ link.poster }}" aria-label="Poster — {{ link.title | escape }}">Poster</a>{% endif %}
+        {% if link.bibtex %}<a href="{{ link.bibtex }}" aria-label="BibTeX — {{ link.title | escape }}">BibTeX</a>{% endif %}
+        {% if link.video %}<a href="{{ link.video }}" aria-label="Video — {{ link.title | escape }}">Video</a>{% endif %}
+        {% if link.notes %}<strong>{{ link.notes }}</strong>{% endif %}
+        {% if link.others %}{{ link.others }}{% endif %}
       </div>
-    <div class="links">
-      {% if link.pdf %} 
-      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      {% endif %}
-      {% if link.code %} 
-      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      {% endif %}
-      {% if link.page %} 
-      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      {% endif %}
-      {% if link.blog %} 
-      <a href="{{ link.blog }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Blog</a>
-      {% endif %}
-      {% if link.slides %} 
-      <a href="{{ link.slides }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
-      {% endif %}
-      {% if link.poster %}
-      <a href="{{ link.poster }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
-      {% endif %}
-      {% if link.bibtex %} 
-      <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      {% endif %}
-      {% if link.video %} 
-      <a href="{{ link.video }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
-      {% endif %}
-      {% if link.notes %} 
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
-      {% endif %}
-      {% if link.others %} 
-      {{ link.others }}
-      {% endif %}
     </div>
-  </div>
-</div>
-</li>
-
-<br>
-
+  </li>
 {% endfor %}
-
 </ol>
-</div>
-
