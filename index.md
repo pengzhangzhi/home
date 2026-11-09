@@ -9,8 +9,7 @@ My research aims to scale up the math on GPUs and see what wonderful things emer
 
 I have also interned at NVIDIA Research and ByteDance Seed.
 
-I love coding and science. At the end of the day, what makes me proud isn’t necessarily publishing a paper. It’s making solid contributions that actually move the field forward — whether that’s a tool, a model, an equation, or a line of code that makes your life easier. I believe science should be accessible to everyone, and open-source is how I try to make that real - peep the goods on my [GitHub](https://github.com/pengzhangzhi). 
-
+ 
 
 <div class="north-star-callout">
   <p class="north-star-callout__lead">I keep reminding myself this:</p>
