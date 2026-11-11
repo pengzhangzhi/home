@@ -27,8 +27,6 @@ Long-term problems I'm pursuing:
 
 
 
-{% include open-source-projects.html %}
-
 ## News
 
 - **[Oct. 2026]** I co-organized [NonAR-LM: Non-Autoregressive Language Models for Fast and Flexible Text Generation](https://pengzhangzhi.github.io/NonAR-LM/), a workshop at COLM 2026 in San Francisco on October 9.
@@ -38,6 +36,8 @@ Long-term problems I'm pursuing:
 
 
 
+
+{% include open-source-projects.html %}
 
 {% include_relative _includes/publications.md %}
 
