@@ -7,7 +7,8 @@
     {% if link.image %}<div class="publication-image"><img src="{{ link.image | relative_url }}" alt="" loading="lazy">{% if link.conference_short %}<span class="publication-badge">{{ link.conference_short }}</span>{% endif %}</div>{% endif %}
     <div class="publication-details">
       <h3>{% if link.pdf %}<a href="{{ link.pdf }}">{{ link.title }}</a>{% else %}{{ link.title }}{% endif %}</h3>
-      <p class="publication-authors">{{ link.authors }}</p>
+      {% assign highlighted_authors = link.authors | replace: 'Fred Zhangzhi Peng', '___FRED_ZHANGZHI_PENG___' | replace: 'Zhangzhi Peng', '<strong>Zhangzhi Peng</strong>' | replace: 'Fred Peng', '<strong>Fred Peng</strong>' | replace: '___FRED_ZHANGZHI_PENG___', '<strong>Fred Zhangzhi Peng</strong>' %}
+      <p class="publication-authors">{{ highlighted_authors }}</p>
       <p class="publication-venue">{{ link.conference }}</p>
       <div class="publication-links">
         {% if link.pdf %}<a href="{{ link.pdf }}" aria-label="PDF — {{ link.title | escape }}">PDF</a>{% endif %}
