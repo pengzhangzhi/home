@@ -14,7 +14,7 @@ I have also interned at NVIDIA Research and ByteDance Seed.
 <div class="north-star-callout">
   <p class="north-star-callout__lead">I keep reminding myself this:</p>
   <figure class="north-star-callout__figure">
-    <img loading="lazy" src="./assets/img/impact-of-your-work.png" alt="A figure titled The impact of your work, showing impact rising sharply only when the work becomes creative, original, and good." />
+    <img fetchpriority="high" width="1456" height="1080" decoding="async" src="./assets/img/impact-of-your-work.png" alt="A figure titled The impact of your work, showing impact rising sharply only when the work becomes creative, original, and good." />
   </figure>
 </div>
 

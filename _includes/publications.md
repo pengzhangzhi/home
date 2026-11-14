@@ -4,7 +4,7 @@
 <ol class="publications">
 {% for link in site.data.publications.main %}
   <li class="publication">
-    {% if link.image %}<div class="publication-image"><img src="{{ link.image | relative_url }}" alt="" loading="lazy">{% if link.conference_short %}<span class="publication-badge">{{ link.conference_short }}</span>{% endif %}</div>{% endif %}
+    {% if link.image %}<div class="publication-image"><picture>{% if link.image_webp %}<source srcset="{{ link.image_webp | relative_url }}" type="image/webp">{% endif %}<img src="{{ link.image | relative_url }}" alt="" width="370" height="240" loading="lazy" decoding="async"></picture>{% if link.conference_short %}<span class="publication-badge">{{ link.conference_short }}</span>{% endif %}</div>{% endif %}
     <div class="publication-details">
       <h3>{% if link.pdf %}<a href="{{ link.pdf }}">{{ link.title }}</a>{% else %}{{ link.title }}{% endif %}</h3>
       {% assign highlighted_authors = link.authors | replace: 'Fred Zhangzhi Peng', '___FRED_ZHANGZHI_PENG___' | replace: 'Zhangzhi Peng', '<strong>Zhangzhi Peng</strong>' | replace: 'Fred Peng', '<strong>Fred Peng</strong>' | replace: '___FRED_ZHANGZHI_PENG___', '<strong>Fred Zhangzhi Peng</strong>' %}
