@@ -1,15 +1,24 @@
+groups:
+  - id: diffusion-language-models
+    title: Diffusion Language Models
+  - id: protein-design
+    title: Protein Design
+
 main:
 
   - title: "Coupling Models for One-Step Discrete Generation"
+    group: diffusion-language-models
     image: ./assets/img/coupling-models-method.png
     image_webp: ./assets/img/publications/coupling-models-method.webp
     authors: Fred Zhangzhi Peng, Avishek Joey Bose, Anru R. Zhang, Alexander Tong
     pdf: https://arxiv.org/pdf/2605.07193.pdf
     conference_short: NeurIPS2026
     conference: NeurIPS2026
+    focus: Discrete generation
     code: https://github.com/pengzhangzhi/Coupling-Models
     poster: ./assets/posters/Coupling_Models_Poster_24x36.pptx
   - title: "Don't Retrain, Align: Adapting Autoregressive LMs to Diffusion LMs via Representation Alignment"
+    group: diffusion-language-models
     image: ./assets/img/repr-align-cover.png
     image_webp: ./assets/img/publications/repr-align-cover.webp
     authors: Fred Zhangzhi Peng, Alexis Fox, Anru R. Zhang, Alexander Tong
@@ -20,6 +29,7 @@ main:
     conference_short: arXiv
     conference: arXiv preprint, 2026
   - title: "Planner Aware Path Learning in Diffusion Language Models Training"
+    group: diffusion-language-models
     image: ./assets/img/pl.jpg
     image_webp: ./assets/img/publications/pl.webp
     authors: Fred Zhangzhi Peng, Zachary Bezemek, Jarrid Rector-Brooks, Shuibai Zhang, Anru R. Zhang, Michael Bronstein, Avishek Joey Bose, Alexander Tong
@@ -30,6 +40,7 @@ main:
     slides: https://docs.google.com/presentation/d/10Bzt7_7IGLrBMtoa7T01S7O1QU0UO2qLMIPGWRCqeQY/edit?usp=sharing
     video: https://www.youtube.com/watch?v=MBgNIZFnKjQ
   - title: "Path Planning for Masked Diffusion Model Sampling"
+    group: diffusion-language-models
     authors: Fred Zhangzhi Peng, Zachary Bezemek, Sawan Patel, Jarrid Rector-Brooks, Sherwood Yao, Avishek Joey Bose, Alexander Tong, Pranam Chatterjee
     conference_short: DeLTa@ICLR2025
     conference: DeLTa@ICLR2025 <strong>Outstanding Paper Award</strong>, and rejected by ICML, NIPS2025,ICLR2026
@@ -41,6 +52,7 @@ main:
     slides: https://docs.google.com/presentation/d/1V9pSyRwxb0fAZpFl-DgT9UP_5ruA8ZbN05KoD2rNBEM/edit?usp=sharing
     
   - title: "Proteus: Exploring Protein Structure Generation for Enhanced Designability and Efficiency"
+    group: protein-design
     authors: Chentong Wang, Yannan Qu, Zhangzhi Peng, Yukai Wang, Hongli Zhu, Dachuan Chen, Longxing Cao
     conference_short: ICML24
     conference: ICML24
@@ -51,6 +63,7 @@ main:
 
     
   - title: "PTM-Mamba: A PTM-Aware Protein Language Model with Bidirectional Gated Mamba Blocks"
+    group: protein-design
     authors: Fred Zhangzhi Peng, Chentong Wang, Tong Chen, Benjamin Schussheim, Sophia Vincoff & Pranam Chatterjee
     conference_short: Nature Methods
     conference: Nature Methods
