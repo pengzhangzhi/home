@@ -16,6 +16,7 @@ main:
     conference: NeurIPS2026
     focus: Discrete generation
     code: https://github.com/pengzhangzhi/Coupling-Models
+    slides: https://docs.google.com/presentation/d/1fsEn3lgxVPJLHOK7u2S3Eja8evYQeqe_xUqDNjSqGOQ/edit?usp=sharing
     poster: ./assets/posters/Coupling_Models_Poster_24x36.pptx
   - title: "Don't Retrain, Align: Adapting Autoregressive LMs to Diffusion LMs via Representation Alignment"
     group: diffusion-language-models
